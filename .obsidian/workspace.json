@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting up vim and dotnet.md",
+                "file": "Setting up Omarchy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting up vim and dotnet"
+              "title": "Setting up Omarchy"
             }
           }
         ]
@@ -182,7 +182,7 @@
   },
   "active": "9ad042d929af1fa2",
   "lastOpenFiles": [
-    "Setting up vim and dotnet.md",
+    "Setting up Omarchy.md",
     "2025-11-10.md",
     "Welcome.md",
     "README.md",
